@@ -1,0 +1,9 @@
+/* una aplicacion que haga una pregunta y al enviarla
+haremos una peticion http a api yesornot para saber la respuesta
+
+me voy a sacar la loto?
+
+mostraremos la respuesta
+y la imagen
+
+*/
